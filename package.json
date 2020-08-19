@@ -1,0 +1,19 @@
+{
+  "name": "@adent/czech-flex",
+  "version": "1.0.0",
+  "description": "",
+  "main": "flexcz.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maly/czech-flex.git"
+  },
+  "author": "Martin Malý <maly@maly.cz>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/maly/czech-flex/issues"
+  },
+  "homepage": "https://github.com/maly/czech-flex#readme"
+}
