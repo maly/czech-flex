@@ -12,6 +12,10 @@ bot[u,y,,u] (botu, boty, bot, botu)
 volání:
 
 flex("Vlastníte [%] akci[i,e,í]", n)
+
+
+npm init --scope=@adent
+npm publish --access=public
 */
 
 
